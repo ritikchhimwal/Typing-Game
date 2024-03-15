@@ -1,3 +1,4 @@
+//javascript code
 const typingText = document.querySelector('.typing-text p');
 const input = document.querySelector(".wrapper .input-field");
 const time = document.querySelector(".time span b");
